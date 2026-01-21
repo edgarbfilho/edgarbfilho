@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou Edgar Filho
 
-<!--
-**edgarbfilho/edgarbfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack  
+🚀 Focado em APIs, sistemas corporativos e automação  
+🛠️ PHP | JavaScript | Node.js | Oracle | Docker  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias
+- Backend: PHP, Node.js
+- Frontend: HTML, CSS, JavaScript
+- Banco de Dados: Oracle, MySQL
+- DevOps: Docker, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- Site: https://edgar.tec.br
+- GitHub: https://github.com/edgarfilho
