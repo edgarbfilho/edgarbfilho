@@ -12,4 +12,5 @@
 
 ## 📫 Contato
 - Site: https://edgar.tec.br
-- GitHub: https://github.com/edgarfilho
+- Site: https://edgar.dev.br
+- GitHub: https://github.com/edgarbfilho
