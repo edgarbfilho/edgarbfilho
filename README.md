@@ -11,6 +11,4 @@
 - DevOps: Docker, Linux
 
 ## 📫 Contato
-- Site: https://edgar.tec.br
-- Site: https://edgar.dev.br
 - GitHub: https://github.com/edgarbfilho
